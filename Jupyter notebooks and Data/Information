@@ -1,0 +1,6 @@
+Packages required to run the jupyter notebooks:
+ 1) Seaborn https://seaborn.pydata.org/installing.html 
+ 2) Biopython   https://biopython.org/wiki/Download
+ 
+Fluorescence data.xlsx contains 3 columns (Fluorescence FC, OD FC and FvOD FC) that were manually made ion Excel. Removing the comment on the last line of the Normalization Jupyter notebook will create a new file that will overwrite the exsisting file containing the additional 3 columns.
+
